@@ -4,7 +4,11 @@ This project is a simple mortgage calculator application built with React.js. Th
 
 It's a simple project I made after applying for a position with Wells Fargo, and as such I used their brand coloring as inspiration.
 
-## Getting Started
+### Go Directly to Hosted Page
+
+https://indigow0lf.github.io/mortgage_calculator/
+
+## Install and Run Locally
 
 ### Prerequisites
 
@@ -17,14 +21,14 @@ To install Mortgage Calculator, follow these steps in the command line:
 
 ## Linux and macOS:
 
-1. git clone https://github.com//mortgage-calculator.git
-2. cd mortgage-calculator
+1. git clone https://github.com//mortgage_calculator.git
+2. cd mortgage_calculator
 3. npm install
 
 ## Windows:
 
-1. git clone https://github.com//mortgage-calculator.git
-2. cd mortgage-calculator
+1. git clone https://github.com//mortgage_calculator.git
+2. cd mortgage_calculator
 3. npm install
 
 # Using Mortgage Calculator
