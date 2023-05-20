@@ -2,6 +2,7 @@
   "name": "mortgage-calculator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://IndigW0lf.github.io/mortgage_calculator",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
